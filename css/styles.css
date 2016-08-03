@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 48pt;
+  font-family: cursive;;
+  background-color: #339966
+}
+
+.sidebar{
+  width: 20%;
+  float: right;
+  background-color: #008080;
+  padding-left: 40px
+}
+
+.column{
+  line-height: 2;
+}
+
+li{
+  font-size: 18pt
+}
+
+img{
+  float: left;
+}
+
+p{
+  text-align: center;
+  font-size: 18pt;
+}
